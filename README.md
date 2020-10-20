@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Clayton! 
 
-I am a brazilian 🇧🇷 web developer 💻 with a diverse technology experience living in awesome Taiwan 🇹🇼, the Heart of Asia. For years I successfully launched and managed several PC components.
+I am a brazilian 🇧🇷 web developer 💻 living in awesome Taiwan 🇹🇼, the Heart of Asia. I have a very diverse technology experience, for years I successfully launched and managed several PC components.
 
 Nowadays, I am focused on developing with JavaScript, mostly React.js / Next.js in the Front End and Node.js, Express for Back End.
 
