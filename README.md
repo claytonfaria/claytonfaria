@@ -2,10 +2,10 @@
 
 I am a brazilian 🇧🇷 web developer 💻 living in awesome Taiwan 🇹🇼, the Heart of Asia. I have a very diverse technology experience, for years I successfully launched and managed several PC components.
 
-Nowadays, I am focused on developing with JavaScript, mostly React / Next.js in the Front End and Node.js, Express for Back End.
+Nowadays, I am focused on developing with JavaScript / TypeScript, mostly React / Next.js in the Front End and Node.js, Express for Back End.
 
 Tech Skills
-- Languages: <strong>JavaScript</strong>, Python
+- Languages: <strong>JavaScript / TypeScript</strong>, Python
 - Front-end: HTML5, CSS3,<strong> React, Next.js</strong>, Jamstack, Sass, Bootstrap, Chakra UI, Material UI
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, PostgreSQL, SQLite
