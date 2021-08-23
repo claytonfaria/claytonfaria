@@ -17,4 +17,4 @@ Language Skills:
 - Chinese/Mandarin: Advanced
 - Spanish: Intermediate
 
-I'm interested in working for companies that use modern technologies such as <strong>React, Next.js, Vue.js, Nuxt.js, Node.js</strong>, and etc. I am looking for a role that challenges and gives me opportunities to learn.
+I'm interested in working for companies that use modern technologies such as <strong>React, Next.js, Vue.js, Nuxt.js, Node.js</strong>, and etc. 
