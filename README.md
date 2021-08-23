@@ -6,7 +6,7 @@ Nowadays, I am focused on developing with JavaScript / TypeScript, mostly React 
 
 Tech Skills
 - Languages: <strong>JavaScript / TypeScript</strong>, Python
-- Front-end: HTML5, CSS3,<strong> React, Next.js</strong>, Jamstack, Sass, Bootstrap, Chakra UI, Material UI
+- Front-end: HTML5, CSS3,<strong> React, Next.js</strong>, TailwindCSS, Sass, Bootstrap, Chakra UI, Material UI
 - Back-end: Node.js, Express.js
 - Databases: MongoDB, PostgreSQL, SQLite
 - Other: Git, GitHub, Pandas, Matplotlib, Seaborn
