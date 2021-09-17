@@ -18,9 +18,3 @@ Language Skills:
 - Spanish: Intermediate
 
 I'm interested in working for companies that use modern technologies such as <strong>React, Next.js, Vue.js, Nuxt.js, Node.js</strong>, and etc. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytonfaria&count_private=true&show_icons=true
-)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claytonfaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
