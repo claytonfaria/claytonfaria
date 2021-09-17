@@ -19,4 +19,7 @@ Language Skills:
 
 I'm interested in working for companies that use modern technologies such as <strong>React, Next.js, Vue.js, Nuxt.js, Node.js</strong>, and etc. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/claytonfaria/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytonfaria)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claytonfaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
